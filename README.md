@@ -10,6 +10,10 @@ In this project, I analyze the New York City Airbnb Open Dataset, which provides
 - Availability and reviews: Number of reviews, last review date, review scores, and availability over the year
 
 The analysis involves:
-    Summary Statistics: Overview of the dataset's variables.
-    Data Visualization: Identifying and correcting poor visualizations.
-    Regression Analysis: Building and comparing multiple linear regression models to identify significant predictors of properties price.
+
+1. Project Introduction
+2. Import Packages
+3. EDA: Overview of the dataset's variables.
+4. Feature Extraction
+5. Model Training: Building and comparing multiple linear regression models to predict properties price.
+6. Model Evaluation
