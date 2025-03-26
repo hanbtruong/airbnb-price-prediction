@@ -10,9 +10,8 @@ This repository contains my final project for Machine Learning course. Here, I a
 - Target Variable: Price (continuous).
 
 Data size:
-Number of rows: 48895
-
-Number of columns: 16
+- Number of rows: 48895
+- Number of columns: 16
 
 The analysis includes:
 
